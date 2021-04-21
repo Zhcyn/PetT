@@ -1,0 +1,2 @@
+# PetT
+This is an application about owners and pets. We are an organization that takes care of pets. We can improve our internal mechanism by recording the information of the owner and the information of the owner's pet. We can use different owners or different pets. Carry out different methods of care. The project is still under development. At this stage, test the content, add owner information, bind pet information to the owner according to the owner's pet information, and test the logical integrity.
